@@ -14,12 +14,6 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/img/favicon.png' }]
   ],
-  themeConfig: {
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'About', link: '/about.html' }
-    ]
-  },
   base: '/blog/',
   dest: 'docs'
 }
