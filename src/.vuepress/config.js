@@ -15,5 +15,5 @@ module.exports = {
     ['link', { rel: 'icon', type: 'image/png', href: '/img/favicon.png' }]
   ],
   base: '/blog/',
-  dest: 'docs'
+  dest: 'docs/'
 }
