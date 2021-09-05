@@ -1,6 +1,6 @@
 module.exports = {
   title: 'kazpen.github.io',
-  description: 'ITエンジニアの徒然雑記',
+  description: 'ソフトウェアエンジニアの徒然雑記',
   plugins: [ '@vuepress/blog' ],
   locales: {
     '/': {
